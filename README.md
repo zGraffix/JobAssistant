@@ -14,7 +14,7 @@
 4. Run ApplicationAssistant.py and fill out prompts.
 	Location - A 25 mile radius of where you want to look for work. Ex. Los Angeles
 	Industry - What field do you want to apply to? Ex. Marketing
-	Salary - Yearly pay. If you are looking for an hourly job, try typing 100000.
+	Salary - Yearly pay. If you are looking for an hourly job, try typing 10000.
 	Resume file path - This is where you paste the location of your resume PDF. Ex. "C:\Users\[user]\Desktop\resume.pdf"
 	Headshot - (Not Required) If you would like an image of yourself included in the resume, paste the file path here the same way as you did the resume.
 
